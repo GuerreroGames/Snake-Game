@@ -8,7 +8,7 @@ Hello! This is a re-implemented version of the classic arcade game, snake, coded
 	
 	https://github.com/grantjenks/free_python_games
 
-The orginal code is included is provided. The main() function of the re-implemented code is within 'controller.py'.
+The orginal code is included. The main() function of the re-implemented code is within 'controller.py'.
 
 **IMPORTANT**
 In order for this game to run, both 32-bit python and 32-bit pygame must be installed. They must both be 32-bit! Here are links to the download pages:
